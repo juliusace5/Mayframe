@@ -1,0 +1,7 @@
+.container{
+    width: 100%;
+    padding: 14rem 0;
+    background-image: url(../../assets/consulthero.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
